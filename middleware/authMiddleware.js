@@ -24,3 +24,5 @@ export const checksForRegister = async (req, res, next) => {
         return res.send(error)
     }
 }
+
+
